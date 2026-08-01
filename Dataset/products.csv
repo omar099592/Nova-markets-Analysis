@@ -1,0 +1,251 @@
+product_id,product_name,category_id,unit_price,unit_cost
+1,Pro Air Fryer,2,215.16,115.49
+2,Deluxe Dumbbell Set,4,353.28,220.94
+3,Ultra Toaster,2,64.65,51.03
+4,Smart Coffee Maker,2,39.83,22.13
+5,Classic Bluetooth Speaker,1,306.51,182.33
+6,Ultra Dumbbell Set,4,20.78,11.07
+7,Ultra Car Charger,10,328.06,250.57
+8,Ultra Backpack,4,75.5,58.64
+9,Eco Novel,7,146.25,94.75
+10,Premium Dash Cam,10,181.21,132.42
+11,Smart Cap,3,232.73,185.5
+12,Deluxe Action Figure,6,129.91,91.18
+13,Classic Tent,4,242.64,139.54
+14,Classic Vacuum Cleaner,2,98.13,63.9
+15,Basic Action Figure,6,212.99,179.76
+16,Eco Face Cream,5,235.43,184.23
+17,Smart Office Chair,9,45.03,24.19
+18,Pro Coffee Maker,2,509.08,289.86
+19,Basic Dash Cam,10,116.04,94.86
+20,Classic Backpack,4,306.16,206.85
+21,Compact USB-C Hub,1,62.38,41.0
+22,Compact Face Cream,5,27.74,15.14
+23,Pro Vacuum Cleaner,2,133.96,81.34
+24,Deluxe Coffee Beans,8,149.31,96.95
+25,Compact Action Figure,6,214.28,166.28
+26,Basic Face Cream,5,503.87,291.03
+27,Compact Hoodie,3,513.83,282.15
+28,Smart Sneakers,3,333.99,181.38
+29,Compact Electric Razor,5,40.35,31.11
+30,Compact Puzzle,6,25.57,18.34
+31,Essential Headphones,1,161.96,119.66
+32,Classic Pen Set,7,353.65,249.48
+33,Essential Running Shoes,4,136.83,87.88
+34,Eco Backpack,4,81.57,46.57
+35,Deluxe Planner,7,51.02,26.99
+36,Compact Shampoo,5,302.43,232.81
+37,Pro Desk Lamp,9,11.68,6.63
+38,Basic Tire Inflator,10,362.29,213.52
+39,Compact Pen Set,7,280.31,232.52
+40,Eco Hoodie,3,136.99,110.75
+41,Classic Air Fryer,2,419.93,259.62
+42,Deluxe Cap,3,122.89,102.61
+43,Classic Sketchbook,7,134.84,96.74
+44,Basic Planner,7,358.57,220.23
+45,Pro Spice Set,8,401.2,266.73
+46,Classic Office Chair,9,67.87,40.28
+47,Essential Coffee Table,9,360.42,229.43
+48,Smart Cookware Set,2,353.39,232.44
+49,Premium Sneakers,3,234.14,159.21
+50,Deluxe Electric Razor,5,15.39,12.5
+51,Pro Office Chair,9,23.22,14.27
+52,Compact Desk Lamp,9,149.68,97.74
+53,Deluxe Jacket,3,364.63,272.73
+54,Premium Desk Lamp,9,216.4,126.06
+55,Eco Dash Cam,10,87.56,72.5
+56,Essential Bluetooth Speaker,1,114.99,90.48
+57,Premium Shampoo,5,490.41,279.26
+58,Classic Running Shoes,4,346.02,191.85
+59,Eco Toaster,2,312.27,242.08
+60,Deluxe Coffee Maker,2,417.07,268.3
+61,Eco Cap,3,443.11,243.19
+62,Pro Bookshelf,9,121.79,98.81
+63,Smart Desk Lamp,9,106.22,72.24
+64,Compact Running Shoes,4,442.26,246.31
+65,Essential Hair Dryer,5,10.81,7.05
+66,Eco Spice Set,8,168.71,128.14
+67,Compact Blender,2,56.63,40.36
+68,Premium Cookware Set,2,394.27,283.16
+69,Compact Phone Mount,10,265.07,158.04
+70,Premium Seat Cover,10,210.94,112.27
+71,Premium Toaster,2,386.82,288.92
+72,Premium Yoga Mat,4,208.67,151.69
+73,Ultra Puzzle,6,104.85,89.03
+74,Eco Tent,4,282.22,184.82
+75,Deluxe Running Shoes,4,27.44,20.19
+76,Eco Phone Mount,10,362.92,272.94
+77,Smart Water Bottle,4,72.43,47.74
+78,Classic Yoga Mat,4,393.83,295.77
+79,Smart Pen Set,7,349.89,203.28
+80,Premium Planner,7,127.38,75.1
+81,Smart Air Fryer,2,184.35,113.5
+82,Compact Puzzle,6,297.78,191.89
+83,Ultra Dumbbell Set,4,56.21,31.64
+84,Smart Olive Oil,8,128.51,99.63
+85,Eco Jacket,3,27.13,17.03
+86,Eco Yoga Mat,4,238.16,204.88
+87,Premium Office Chair,9,205.99,156.07
+88,Classic Office Chair,9,250.17,195.33
+89,Smart Dumbbell Set,4,300.73,208.83
+90,Compact Snack Box,8,352.56,281.34
+91,Deluxe Notebook,7,130.44,105.61
+92,Smart Notebook,7,502.23,277.78
+93,Pro Hair Dryer,5,133.39,81.09
+94,Eco Sketchbook,7,385.46,246.08
+95,Pro Jeans,3,214.69,161.25
+96,Basic Yoga Mat,4,59.19,32.47
+97,Essential Office Chair,9,439.71,270.62
+98,Basic Bluetooth Speaker,1,148.26,105.01
+99,Ultra Spice Set,8,399.49,219.16
+100,Ultra T-Shirt,3,462.68,266.69
+101,Classic Blender,2,235.83,194.4
+102,Compact Car Charger,10,96.08,52.68
+103,Basic Notebook,7,212.75,183.9
+104,Basic Running Shoes,4,57.55,34.93
+105,Classic Smart Watch,1,8.25,6.49
+106,Basic Sketchbook,7,278.51,166.88
+107,Pro Coffee Table,9,260.12,197.33
+108,Essential Backpack,4,285.63,215.09
+109,Smart Tent,4,172.68,100.99
+110,Pro Cap,3,351.38,196.64
+111,Classic Coffee Beans,8,313.67,199.0
+112,Basic Power Bank,1,46.52,32.63
+113,Classic Car Charger,10,110.94,83.23
+114,Ultra Bookshelf,9,421.95,292.04
+115,Essential Shampoo,5,435.3,268.15
+116,Essential Blender,2,365.67,239.47
+117,Eco Shampoo,5,266.18,175.19
+118,Basic Coffee Table,9,105.91,62.6
+119,Ultra Office Chair,9,102.61,87.83
+120,Deluxe Face Cream,5,250.68,195.41
+121,Classic Face Cream,5,526.88,282.44
+122,Pro Bookshelf,9,392.42,274.88
+123,Compact Electric Razor,5,17.65,9.56
+124,Pro Board Game,6,246.21,131.31
+125,Pro Bed Frame,9,517.72,289.27
+126,Smart Bluetooth Speaker,1,132.17,91.86
+127,Premium Face Cream,5,355.37,256.09
+128,Pro Board Game,6,86.22,55.0
+129,Eco Cap,3,470.12,281.17
+130,Ultra Bed Frame,9,211.77,173.17
+131,Classic Bluetooth Speaker,1,352.83,186.43
+132,Premium Hoodie,3,71.27,46.32
+133,Ultra Building Blocks,6,449.98,263.83
+134,Deluxe Sneakers,3,353.18,210.62
+135,Essential LED Monitor,1,152.16,111.05
+136,Compact LED Monitor,1,428.43,243.76
+137,Classic Backpack,4,478.53,260.79
+138,Smart Building Blocks,6,237.85,155.85
+139,Compact Seat Cover,10,393.81,240.5
+140,Smart Jeans,3,370.47,212.08
+141,Essential Wireless Mouse,1,375.51,267.55
+142,Pro Novel,7,141.33,115.8
+143,Classic Cap,3,206.66,175.59
+144,Eco Notebook,7,221.64,142.35
+145,Eco Dumbbell Set,4,142.63,89.53
+146,Compact Action Figure,6,16.49,14.0
+147,Compact Yoga Mat,4,351.73,247.67
+148,Pro Pen Set,7,65.49,42.48
+149,Essential Cookware Set,2,304.55,232.15
+150,Ultra Bed Frame,9,229.14,188.75
+151,Classic Puzzle,6,31.36,20.25
+152,Basic Shampoo,5,267.8,164.49
+153,Classic Face Cream,5,412.51,219.2
+154,Essential Tire Inflator,10,219.01,157.31
+155,Basic Remote Car,6,324.18,239.58
+156,Smart Office Chair,9,162.59,134.5
+157,Pro Seat Cover,10,23.36,12.48
+158,Smart USB-C Hub,1,420.69,251.61
+159,Ultra Smart Watch,1,160.82,125.64
+160,Smart Tent,4,68.42,51.15
+161,Essential Toaster,2,281.59,167.02
+162,Classic Dash Cam,10,271.66,199.76
+163,Pro Electric Razor,5,488.35,286.69
+164,Smart Pen Set,7,271.13,168.53
+165,Deluxe Electric Razor,5,172.02,128.78
+166,Smart Water Bottle,4,189.04,110.01
+167,Basic Hoodie,3,11.44,9.25
+168,Ultra Hair Dryer,5,21.92,18.57
+169,Pro LED Monitor,1,431.78,257.36
+170,Basic Water Bottle,4,177.24,144.88
+171,Eco Dash Cam,10,225.81,150.03
+172,Compact Snack Box,8,82.75,56.09
+173,Deluxe Bed Frame,9,197.55,122.56
+174,Ultra Cookware Set,2,227.74,192.35
+175,Classic Dash Cam,10,187.06,115.51
+176,Pro Backpack,4,275.0,153.43
+177,Deluxe Dumbbell Set,4,253.56,199.31
+178,Compact Bluetooth Speaker,1,42.13,25.82
+179,Classic Spice Set,8,20.38,12.82
+180,Basic Snack Box,8,446.6,282.37
+181,Smart Backpack,4,195.1,119.51
+182,Compact Snack Box,8,218.57,140.18
+183,Premium Cap,3,407.01,282.73
+184,Compact Vacuum Cleaner,2,527.76,288.55
+185,Ultra Cap,3,75.44,62.76
+186,Ultra Rice Bag,8,40.41,34.73
+187,Eco Yoga Mat,4,54.62,32.86
+188,Ultra Sneakers,3,36.12,26.0
+189,Essential Desk Lamp,9,296.81,254.24
+190,Ultra Spice Set,8,333.91,245.27
+191,Eco Sketchbook,7,66.67,39.86
+192,Eco Cap,3,344.52,190.54
+193,Compact Coffee Beans,8,388.82,221.85
+194,Eco Electric Razor,5,113.17,88.2
+195,Eco Tent,4,397.41,226.43
+196,Pro Toaster,2,433.75,297.2
+197,Essential Tent,4,198.78,114.75
+198,Classic Building Blocks,6,195.05,105.54
+199,Compact Jeans,3,380.05,258.23
+200,Compact Novel,7,388.67,226.51
+201,Smart Vacuum Cleaner,2,64.71,35.42
+202,Eco Building Blocks,6,272.64,154.05
+203,Compact Notebook,7,181.09,99.41
+204,Basic Planner,7,138.76,119.81
+205,Basic Headphones,1,331.53,272.09
+206,Premium Planner,7,184.76,99.2
+207,Smart Action Figure,6,451.0,285.43
+208,Ultra Sketchbook,7,284.47,191.39
+209,Eco Seat Cover,10,127.78,91.5
+210,Smart Tent,4,348.67,203.39
+211,Smart Rice Bag,8,415.55,238.52
+212,Deluxe Remote Car,6,48.53,31.91
+213,Basic Olive Oil,8,34.34,21.98
+214,Smart Office Chair,9,245.58,135.25
+215,Premium Phone Mount,10,134.33,108.52
+216,Smart Toaster,2,81.2,47.18
+217,Deluxe Sneakers,3,229.69,187.37
+218,Smart LED Monitor,1,49.95,29.81
+219,Eco Board Game,6,46.76,26.47
+220,Smart Action Figure,6,258.36,213.34
+221,Pro Hair Dryer,5,56.76,30.03
+222,Premium Vacuum Cleaner,2,164.8,115.41
+223,Essential Office Chair,9,455.4,244.78
+224,Classic Backpack,4,507.43,295.87
+225,Premium Headphones,1,140.66,116.0
+226,Premium Dumbbell Set,4,367.51,234.26
+227,Compact Seat Cover,10,238.14,130.15
+228,Classic Sneakers,3,57.44,37.8
+229,Eco Seat Cover,10,12.54,8.35
+230,Deluxe Perfume,5,26.78,21.61
+231,Classic Phone Mount,10,64.94,39.67
+232,Classic Jacket,3,357.32,225.08
+233,Pro Car Charger,10,413.37,288.84
+234,Smart Tire Inflator,10,160.85,89.29
+235,Basic Yoga Mat,4,132.87,70.96
+236,Pro Yoga Mat,4,16.13,8.59
+237,Basic Car Charger,10,32.24,17.73
+238,Ultra LED Monitor,1,304.43,160.67
+239,Classic Pen Set,7,41.91,26.77
+240,Premium Coffee Table,9,448.72,290.94
+241,Classic Planner,7,318.76,190.67
+242,Eco Pen Set,7,225.42,139.09
+243,Deluxe Sneakers,3,323.85,177.37
+244,Basic Coffee Table,9,25.05,18.41
+245,Eco Bed Frame,9,518.72,285.37
+246,Pro Sketchbook,7,225.18,139.42
+247,Classic Board Game,6,112.11,86.83
+248,Compact Hair Dryer,5,200.63,141.79
+249,Basic Spice Set,8,214.09,177.18
+250,Premium Pen Set,7,552.63,292.45
