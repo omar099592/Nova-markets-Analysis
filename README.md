@@ -7,10 +7,10 @@ profitability, discounts, product performance, store performance, and sales tren
 ## Dashboard Preview
 
 ### Executive Dashboard
-![Dashboard Page 1](dashboard-page-1.png)
+![Dashboard Page 1](dashboard%20pg%201.png)
 
 ### Profitability Dashboard
-![Dashboard Page 2](dashboard-page-2.png)
+![Dashboard Page 2](dashboard%20pg%202.png)
 
 ## Key Insights
 
